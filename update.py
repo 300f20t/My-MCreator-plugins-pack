@@ -44,30 +44,36 @@ def update_repo_with_branch_handling(repo_path=None):
             check=True
         )
         
-        print("Update successful. Output:")
+        print("\nUpdate successful. Output:")
         print(pull_result.stdout)
         
         if pull_result.stderr:
-            print("Additional info:")
+            print("\nAdditional info:")
             print(pull_result.stderr)
         
         return True
     
     except subprocess.CalledProcessError as e:
-        print(f"Error during git pull: {e.stderr}")
+        print(f"\nError during git pull: {e.stderr}")
     except Exception as e:
-        print(f"Unexpected error: {str(e)}")
+        print(f"\nUnexpected error: {str(e)}")
     
     return False
 
-success = update_repo_with_branch_handling()
+def main():
+    print("Starting repository update...\n")
     
-if success:
-    print("✅ Repository updated successfully")
-    sys.exit(0)
-else:
-    print("❌ Failed to update repository")
-    sys.exit(1)
+    success = update_repo_with_branch_handling()
+    
+    if success:
+        print("\n✅ Repository updated successfully")
+    else:
+        print("\n❌ Failed to update repository")
+    
+    if sys.platform.startswith('win'):
+        input("\nPress Enter to exit...")
+    
+    sys.exit(0 if success else 1)
 
-if sys.platform.startswith('win'):
-        input("Press Enter to exit...")
+if __name__ == "__main__":
+    main()
