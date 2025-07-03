@@ -2,6 +2,14 @@
 
 This is a repository of plugins for MCreator, created so that you don't have to worry about their compatibility issues.
 
+## Installation
+1. Install [Python](https://www.python.org/downloads/)
+2. Install [GIT](https://git-scm.com/downloads)
+3. Clone repository
+4. Go to the branch with the MCreator version you need, otherwise the default version will be used. (to do this, you can open a terminal in the repository folder and enter the `git checkout branch_name`)
+5. Run `update.py`
+6. Run `install.py`
+
 ## License  
 Licenses used by this project:  
 - [GNU GPL v3](LICENSE-GPLv3)  
