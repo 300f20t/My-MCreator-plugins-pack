@@ -8,3 +8,6 @@ Licenses used by this project:
 - [MIT License](LICENSE-MIT)  
 
 Some plugins are licensed under the GPL, and some under MIT, all listed below and whether any changes have been made.  The project scripts themselves are licensed under MIT.
+
+## Plugins list
+- [Minecraft Forge 1.20.1 mod generator](https://mcreator.net/plugin/114284/minecraft-forge-1201-mod-generator) (GNU GPL v3, not modified)
