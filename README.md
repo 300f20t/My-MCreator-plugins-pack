@@ -18,4 +18,9 @@ Licenses used by this project:
 Some plugins are licensed under the GPL, and some under MIT, all listed below and whether any changes have been made.  The project scripts themselves are licensed under MIT.
 
 ## Plugins list
-- [Minecraft Forge 1.20.1 mod generator](https://mcreator.net/plugin/114284/minecraft-forge-1201-mod-generator) (GNU GPL v3, not modified)
+- [Minecraft Forge 1.20.1 mod generator](https://mcreator.net/plugin/114284/minecraft-forge-1201-mod-generator) (GPL v3, not modified)
+- [Another Fabric Generator [1.20.1] (300f20t edition)](https://mcreator.net/plugin/112752/another-fabric-generator-1201) (GPL v3, not modified)
+- [Nerdy's GeckoLib Plugin](https://github.com/NerdyPuzzle/MCreator-Nerdys_Geckolib_Plugin) (MIT, updated plugin.json)
+- [Blockstates](https://github.com/NerdyPuzzle/Blockstates-plugin-MCreator) (MIT, updated plugin.json)
+- [Just enough recipes](https://github.com/NerdyPuzzle/Just-enough-recipes-MCreator) (MIT, LGPL-2.1? I think this is an outdated license, updated plugin.json)
+- [Shaders Utils](https://github.com/Spectrall368/Shaders-Utils) (GPL v3, not modified)
