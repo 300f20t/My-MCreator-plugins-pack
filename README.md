@@ -13,7 +13,8 @@ This is a repository of plugins for MCreator, created so that you don't have to 
 ## License  
 Licenses used by this project:  
 - [GNU GPL v3](LICENSE-GPLv3)  
-- [MIT License](LICENSE-MIT)  
+- [MIT License](LICENSE-MIT) 
+- [Apache License](LICENSE-Apache-2.0)
 
 Some plugins are licensed under the GPL, and some under MIT, all listed below and whether any changes have been made.  The project scripts themselves are licensed under MIT.
 
@@ -23,3 +24,5 @@ Some plugins are licensed under the GPL, and some under MIT, all listed below an
 - [Blockstates](https://github.com/NerdyPuzzle/Blockstates-plugin-MCreator) (MIT, updated plugin.json)
 - [Just enough recipes](https://github.com/NerdyPuzzle/Just-enough-recipes-MCreator) (MIT, LGPL-2.1? I think this is an outdated license, updated plugin.json)
 - [Shaders Utils](https://github.com/Spectrall368/Shaders-Utils) (GPL v3, not modified)
+- [Configuration Files](https://github.com/NerdyPuzzle/Configuration-files-plugin-MCreator) (MIT, LGPL-2.1? I think this is an outdated license, updated plugin.json, added files for new versions)
+- [ArrayLists (Nerdy edition)](https://github.com/Goldorion/Array-Lists-MCreator) (Apache-2.0, updated plugin.json, added files for new versions)
