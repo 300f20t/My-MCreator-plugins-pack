@@ -13,6 +13,7 @@ This is a repository of plugins for MCreator, created so that you don't have to 
 ## License  
 Licenses used by this project:  
 - [GNU GPL v3](LICENSE-GPLv3)  
+- [GNU LGPL v2.1](LICENSE-LGPLv2.1)  
 - [MIT License](LICENSE-MIT) 
 - [Apache License](LICENSE-Apache-2.0)
 
