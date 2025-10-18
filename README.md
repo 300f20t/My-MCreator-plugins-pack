@@ -29,3 +29,4 @@ Some plugins are licensed under the GPL, and some under MIT, all listed below an
 - [ArrayLists (Nerdy edition)](https://github.com/Goldorion/Array-Lists-MCreator) (Apache-2.0, updated plugin.json, added files for other versions)
 - [File Manager (Nerdy edition)](https://mcreator.net/plugin/108844/file-manager-nerdy-edition) (LGPLv2.1, added files for other versions)
 - [Nerdy's Player Animator](https://mcreator.net/plugin/91396/player-animator-forge-1192) (MIT License, not modified)
+- [Nerdy's New Curios API Plugin](https://mcreator.net/plugin/90992/nerdys-curios-api-plugin) (MIT License, not modified)
