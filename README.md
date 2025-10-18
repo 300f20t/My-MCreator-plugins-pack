@@ -25,7 +25,7 @@ Some plugins are licensed under the GPL, and some under MIT, all listed below an
 - [Blockstates](https://github.com/NerdyPuzzle/Blockstates-plugin-MCreator) (MIT, updated plugin.json)
 - [Just enough recipes](https://github.com/NerdyPuzzle/Just-enough-recipes-MCreator) (MIT, LGPL-2.1? I think this is an outdated license, updated plugin.json)
 - [Shaders Utils](https://github.com/Spectrall368/Shaders-Utils) (GPL v3, not modified)
-- [Configuration Files](https://github.com/NerdyPuzzle/Configuration-files-plugin-MCreator) (MIT, LGPL-2.1? I think this is an outdated license, updated plugin.json, added files for new versions)
+- [Configuration Files](https://github.com/NerdyPuzzle/Configuration-files-plugin-MCreator) (MIT, LGPL-2.1? I think this is an outdated license, not modified)
 - [ArrayLists (Nerdy edition)](https://github.com/Goldorion/Array-Lists-MCreator) (Apache-2.0, updated plugin.json, added files for other versions)
 - [File Manager (Nerdy edition)](https://mcreator.net/plugin/108844/file-manager-nerdy-edition) (LGPLv2.1, added files for other versions)
 - [Nerdy's Player Animator](https://mcreator.net/plugin/91396/player-animator-forge-1192) (MIT License, not modified)
