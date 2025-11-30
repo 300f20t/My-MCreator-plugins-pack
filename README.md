@@ -11,23 +11,19 @@ This is a repository of plugins for MCreator, created so that you don't have to 
 6. Run `install.py`
 
 ## License  
-Licenses used by this project:  
-- [GNU GPL v3](LICENSE-GPLv3)  
-- [GNU LGPL v2.1](LICENSE-LGPLv2.1)  
-- [MIT License](LICENSE-MIT) 
-- [Apache License](LICENSE-Apache-2.0)
-
-Some plugins are licensed under the GPL, and some under MIT, all listed below and whether any changes have been made.  The project scripts themselves are licensed under MIT.
+Some plugins are licensed under the GPL, and some under MIT, all listed below and whether any changes have been made. The project scripts themselves are licensed under MIT.
 
 ## Plugins list
-- [Minecraft Forge 1.20.1 mod generator](https://github.com/MCreator/Generator-Forge-1.20.1) (Apache-2.0, not modified)
-- [Another Fabric Generator [1.20.1] (300f20t edition)](https://github.com/300f20t/Another-Fabric-Generator-MCreator) (GPL v3, not modified)
-- [Blockstates](https://github.com/NerdyPuzzle/Blockstates-plugin-MCreator) (MIT, not modified)
-- [Just enough recipes](https://github.com/NerdyPuzzle/Just-enough-recipes-MCreator) (MIT, updated plugin.json)
-- [Shaders Utils](https://github.com/Spectrall368/Shaders-Utils) (GPL v3, not modified)
-- [Configuration Files](https://github.com/NerdyPuzzle/Configuration-files-plugin-MCreator) (MIT, not modified)
-- [ArrayLists (Nerdy edition)](https://github.com/Goldorion/Array-Lists-MCreator) (Apache-2.0, updated plugin.json, added files for other versions)
-- [File Manager (Nerdy edition)](https://mcreator.net/plugin/108844/file-manager-nerdy-edition) (LGPLv2.1, added files for other versions)
-- [Nerdy's Player Animator](https://mcreator.net/plugin/91396/player-animator-forge-1192) (MIT, not modified)
-- [Nerdy's New Curios API Plugin](https://mcreator.net/plugin/90992/nerdys-curios-api-plugin) (MIT, not modified)
-- [Network Packets](https://mcreator.net/plugin/119763/network-packets) (MIT, not modified)
+- Minecraft Forge 1.20.1 mod generator (Apache-2.0, not modified)
+- Another Fabric Generator [1.20.1] (300f20t edition) (GPL v3, not modified)
+- Blockstates (MIT, not modified)
+- Just enough recipes (MIT, updated plugin.json)
+- Shaders Utils (GPL v3, not modified)
+- Configuration Files (MIT, not modified)
+- ArrayLists (Nerdy edition) (Apache-2.0, updated plugin.json, added files for other versions)
+- File Manager (Nerdy edition) (LGPLv2.1, added files for other versions)
+- Nerdy's Player Animator (MIT, not modified)
+- Nerdy's New Curios API Plugin (MIT, not modified)
+- Network Packets (MIT, not modified)
+
+**These plugins are downloaded from [here](https://mcreator.net/plugins)**
