@@ -17,7 +17,7 @@ Some plugins are licensed under the GPL, and some under MIT, all listed below an
 - Minecraft Forge 1.20.1 Generator (GPL v3, not modified)
 - Fabric Generator [1.21.8] (GPL v3, not modified)
 - Blockstates (MIT, not modified)
-- Just enough recipes (MIT, not modified)
+- Just enough recipes (MIT, added support for 1.20.1 Forge)
 - Shaders Utils (GPL v3, not modified)
 - Configuration Files (MIT, not modified)
 - ArrayLists (Apache-2.0, not modified)
